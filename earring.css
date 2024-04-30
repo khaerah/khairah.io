@@ -1,0 +1,148 @@
+nav{
+    padding: 10px;
+    /* width: 100%; */
+    
+      
+}
+
+.home-bar>a{
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+
+.icon{
+    padding-left: 50px;
+    color: black;
+
+}
+
+a{
+    color: black;
+}
+
+.underline{
+    text-decoration: overline;
+}
+
+.lando{
+    word-spacing: -5px;
+}
+
+.homes{
+    z-index: 2;
+    position: absolute;
+    text-align: center;
+    /* padding-top: 20px; */
+    padding-bottom: 100px;
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 200px;
+}
+
+.bck{
+    z-index: 4;
+    position: absolute;
+    width:400px;
+    height: 200px;
+    border-radius: 50px;
+    bottom: -130px;
+    right: 70px;
+}
+
+ .rings{
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 200px;
+    font-style:italic;
+    font-size: 100px;
+
+} 
+
+.para{
+    z-index: 3;
+    position: absolute;
+    bottom: -71px;
+    text-align: center;
+    /* padding-top: 300%; */
+    color: white;
+    padding-left: 500px;
+    margin-bottom: 10px;
+    text-align: justify;
+    /* padding-top:70px; */
+}
+
+.choice{
+    padding-left: 100px;
+    margin-top: 150px;
+    margin-bottom: 40px;
+}
+
+.dangling-ear{
+    display: flex;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.quick{
+    color: brown;
+}
+
+.add{
+    text-decoration: underline;
+}
+
+.delete{
+    color: rgb(82, 29, 29);
+    opacity: 0.3;
+    display: inline;
+}
+
+.num{
+    color: rgb(251, 2, 2);
+    display: inline;
+    text-decoration: underline;
+
+}
+
+h1{
+       -spacing: 5px;
+}
+
+.sales{
+    z-index: 4;
+    position: absolute;
+    width:90px;
+    height: 30px;
+    border-radius: 50px;
+    /* bottom: -130px;
+    right: 70px; */
+    background-color: white;
+    color: black;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
