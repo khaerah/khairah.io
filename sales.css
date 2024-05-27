@@ -51,11 +51,6 @@ body {
     padding-top: 50px;
 }
 
-/* img {
-    position: relative;
-} */
-
-
 .inside {
     margin-bottom: 100px;
 }
@@ -93,16 +88,7 @@ body {
 a {
     text-decoration: underline;
     color: black;
-    /* padding-left: 20px; */
 }
-/* 
-.accessories {
-    display: flex;
-    font-size: 20px;
-    font-family: sans-serif;
-    margin-bottom: 100px;
-    min-width: 100%;
-} */
 
 .sales{
     z-index: 4;
@@ -110,8 +96,6 @@ a {
     width:80px;
     height: 20px;
     border-radius: 50px;
-    /* bottom: -130px;
-    right: 70px; */
     background-color: white;
     color: black;
     padding-top: 5px;
@@ -124,7 +108,6 @@ a {
     z-index: 2;
     position: absolute;
     text-align: center;
-    /* padding-top: 20px; */
     padding-bottom: 10px;
     color: white;
     font-size: 20px;
